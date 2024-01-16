@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\demo\lrc-assets\LRC-AOS-001
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\demo\lrc-assets\lrc-aos-001\\logfile.log
+c:\demo\lrc-assets\lrc-aos-001\\combined_LRC-AOS-001.c
+c:\demo\lrc-assets\lrc-aos-001\\pre_cci.c
