@@ -1,6 +1,8 @@
 Action()
 {
 
+	// Added new statement
+	
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
 	web_add_cookie("userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D; DOMAIN=advantageonlineshopping.com");
